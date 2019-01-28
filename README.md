@@ -9,6 +9,17 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
+## External Depenencies
+This project requires:
+* TensorFlow
+* CV2
+* numPy
+* Pickle
+* MatPlotLib
+* scikit-learn
+
+Also, grab pickled data files (test.p, valid.p, and train.p) from the Udacity classroom and store in the "data" directory.
+
 ## Rubric Points
 
 Here I will consider the rubric points individually and describe how I addressed each point in my implementation.
